@@ -324,9 +324,10 @@ int main(int argc, char **argv)
 }
 
 ## Output:
+![pca(ex4)a](https://github.com/Naveensrinivasan07/PCA-Matrix-Addition-With-Unified-Memory/assets/119475891/26e2995e-5fcc-4d6f-b602-059cda7ae152)
+![pca(ex4)b](https://github.com/Naveensrinivasan07/PCA-Matrix-Addition-With-Unified-Memory/assets/119475891/2f2f2368-0447-4eeb-84d5-6c9ad95e8e7c)
 
-<br>![output](./pca(ex4)a.png)
-<br>![output](./pca(ex4)b.png)
+
 
 ## Result:
 The initialization process was completed in 0.418289seconds, and the matrix addition took 0.065890 seconds in the host, and 0.042262 seconds in the GPU and provides better performance among the host and GPU. Thus, matrix addition using CUDA programming with unified memory has been performed successfully.
